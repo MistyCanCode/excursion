@@ -1,39 +1,30 @@
-* {
-  background-color: black;
-  font-family: Verdana;
+body {
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white;
 }
+
+.cta {
+    color: Aquamarine;
+    font-size: 16px;
+}
+
 h1 {
-  color: white;
-  font-size: 50px;
+    font-size: 50px;
+    font-weight: normal;
 }
+
 h2 {
-  font-weight: 300;
-  font-size: 42px;
-  color: white;
+    font-size: 42px;
+    font-weight: 300;
 }
-h3 {
-  color: gray;
-  font-size: 21px;
-}
+
 p {
-  color: aquamarine;
-  font-size: 16px;
-  text-decoration: underline;
+    color: Gray;
+    font-size: 21px;
 }
-footer {
-text-align: right;
-color: gray;
-}
-.video {
-  object-fit: contain;
-  height: 700;
-  width: 400;
-}
-.camp {
-  height: 527;
-  width: 896;
-}
-.cell {
-  height: 108;
-  width: 64;
-}
+
+.footer {
+    text-align: right;
+} 
