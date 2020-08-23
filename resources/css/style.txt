@@ -1,0 +1,10 @@
+* {
+  background-color: black;
+  font-family: Verdana;
+}
+h1 {
+
+}
+p {
+
+}
