@@ -24,3 +24,16 @@ footer {
 text-align: right;
 color: gray;
 }
+.video {
+  object-fit: contain;
+  height: 700;
+  width: 400;
+}
+.camp {
+  height: 527;
+  width: 896;
+}
+.cell {
+  height: 108;
+  width: 64;
+}
